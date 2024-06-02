@@ -1,7 +1,5 @@
 # Halo, Saya Nelsen Niko 👋
 
-Saya seorang `pengembang perangkat lunak` yang penuh antusiasme terhadap# Halo, Saya Nelsen Niko 👋
-
 Saya seorang `pengembang perangkat lunak` yang penuh antusiasme terhadap teknologi. Saya senang membuat dan berkontribusi pada proyek open-source. Selamat datang di halaman pribadi saya!
 
 ## 📫 Hubungi Saya
