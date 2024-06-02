@@ -4,10 +4,19 @@ Saya seorang `pengembang perangkat lunak` yang penuh antusiasme terhadap teknolo
 
 ## 📫 Hubungi Saya
 
-- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelsenpro)
-- Email: [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsenniiko@gmail.com)
-- WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285328736706)
-- TikTok: [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nelsenniko)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelsenpro)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsenniiko@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285328736706)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nelsenniko)
+[![Sites](https://img.shields.io/badge/Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/nelsennikoo)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nelsennikoo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nelsenniko/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nelsennikoo)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bnelsofc)
+[![Gitlab](https://img.shields.io/badge/Gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/nelsenpro/frame)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/getframecss)
+[![Sourceforge](https://img.shields.io/badge/Sourceforge-FF5722?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/bnelsofc/framecss)
+[![Launchpad](https://img.shields.io/badge/Launchpad-440D5A?style=for-the-badge&logo=launchpad&logoColor=white)](https://code.launchpad.net/~nelsenpro/framecss/+git/frame)
 
 ## 🔧 Teknologi dan Alat yang Saya Gunakan
 
@@ -53,4 +62,4 @@ Myqr adalah pustaka yang dirancang untuk menyediakan fungsionalitas dalam pengem
 
 ## 📜 Lisensi
 
-Kode dalam repositori ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/MIT)
+Kode dalam repositori ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/MIT).
